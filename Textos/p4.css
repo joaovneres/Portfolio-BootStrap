@@ -1,0 +1,132 @@
+body{
+	background-color: whitesmoke;
+	font-family: 'Times New Roman';
+}
+
+nav {
+	width: 12.5%;
+	height: 95%;
+	background-color: #FFA82E;
+	float: left;
+	top: 0%;
+	left: 0%;
+	position: fixed;
+}
+#logol{
+	width: 100%;
+}
+ul{
+	list-style: none;
+	float: left;
+	top: 0%;
+}
+li{
+	text-align: center;
+}
+#a01{
+	display: block;
+	text-decoration: none;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	padding-left: 0%;
+	color: black;
+	text-align: center;
+	background-color: #68C9D4;
+	border-radius: 100%;
+	font-size: 16px;
+}
+#a01:hover{
+	color:#FFA82E;
+	background-color: #858585;
+}
+section{
+	width: 85.5%;
+	height: 92%;
+	position: fixed;
+	margin-top: 0;
+	margin-left: 13%;
+	background-color: #68C9D4;
+}
+#a1{
+	width: 100%;
+	height: 5%;
+	background-color: #858585;
+	text-align: center;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+#a2{
+	width: 47%;
+	height: 43%;
+	margin-left: 2%;
+	margin-top: 2%;
+	float: left;
+	background-color: #858585;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	text-align: justify;
+	font-size: 15px;
+}
+#lin1{
+	text-decoration: none;
+	color: black;
+	background-color: #68C9D4;
+}
+#lin1:hover{
+	color:#FFA82E;
+	background-color: #858585;
+}
+#a3{
+	width: 47%;
+	height: 43%;
+	margin-left: 2%;
+	margin-top: 2%;
+	float: left;
+	background-color: #858585;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	text-align: justify;
+	font-size: 15px;
+}
+#a4{
+	width: 47%;
+	height: 43%;
+	margin-left: 2%;
+	margin-top: 2%;
+	float: left;
+	background-color: #858585;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	text-align: justify;
+	font-size: 15px;
+}
+#a5{
+	width: 47%;
+	height: 43%;
+	margin-left: 2%;
+	margin-top: 2%;
+	float: left;
+	background-color: #858585;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	text-align: justify;
+	font-size: 15px;
+}
+footer{
+	width: 100%;
+	position: fixed;
+	height: 5%;
+	background-color: #858585;
+	left: 0%;
+	bottom: 0%;
+	font-size: 12px;
+	text-align: center;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
