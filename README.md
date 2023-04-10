@@ -1,10 +1,11 @@
 # Portfolio-BootStrap
 
-Portfólio desenvolvido na matéria de Projeto de Navegação e Interação, ministrada pelo professor mestre Jorge Luís Gregório.
+Portfólio desenvolvido na matéria de Acessibilidade, ministrada pelo professor mestre Silvio.
+O intuito era deixar as páginas mais acessíveis.
 
 # Tecnologias
 
-HTML, CSS, JavaScript e BootStrap
+HTML, CSS, JavaScript e BootStrap.
 
 # Contato
 
